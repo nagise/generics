@@ -1,0 +1,2 @@
+# generics
+java generics samples
